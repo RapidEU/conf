@@ -37,8 +37,7 @@ sudo apt update
 ############################################################################
 
 # Install golang
-cd /home/kali/Downloads
-
+#TODO
 
 cd /home/kali/Documents
 git clone https://github.com/maurosoria/dirsearch.git
